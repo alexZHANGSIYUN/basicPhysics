@@ -1,5 +1,11 @@
 # Lecture_02_Sound 第二讲 简单声现象
 
+### 声现象知识网络
+
+
+![sound](https://github.com/alexZHANGSIYUN/basicPhysics/blob/master/Lecture_02_Sound/images/sound.png)
+
+
 ### 声现象知识归纳
 
 - 声音的发生：由物体的振动而产生。振动停止，发声也停止。
