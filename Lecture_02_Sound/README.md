@@ -22,7 +22,15 @@
 
 - [多普勒效应](https://www.youtube.com/watch?v=h4OnBYrbCjY)
 
-<生活中有这样一个有趣的现象：当一辆救护车迎面驶来的时候，听到声音越来越高；而车离去的时候声音越来越低。你可能没有意识到，这个现象和医院使用的彩超同属于一个原理，那就是“多普勒效应”。多普勒效应Doppler effect是为纪念奥地利物理学家及数学家克里斯琴·约翰·多普勒（Christian Johann Doppler）而命名的，他于1842年首先提出了这一理论。主要内容为物体辐射的波长因为波源和观测者的相对运动而产生变化。在运动的波源前面，波被压缩，波长变得较短，频率变得较高（蓝移blue shift）；在运动的波源后面时，会产生相反的效应。波长变得较长，频率变得较低（红移red shift）；波源的速度越高，所产生的效应越大。根据波红（蓝）移的程度，可以计算出波源循着观测方向运动的速度。恒星光谱线的位移显示恒星循着观测方向运动的速度，除非波源的速度非常接近光速，否则多普勒位移的程度一般都很小。所有波动现象都存在多普勒效应。
+- [doppler effect, shock wave , and sonic boom](https://www.youtube.com/watch?v=I1ykNQijOC8)
+
+- [Sonic Boom](https://www.youtube.com/watch?v=XmDVvGNtgMg)
+
+- [AWESOME Sonic Booms Compilation (2017)](https://www.youtube.com/watch?v=x6DUbxCpszU)
+
+- [Loudest Sonic Booms Compilation](https://www.youtube.com/watch?v=HAQYMbd9YV4)
+
+> 生活中有这样一个有趣的现象：当一辆救护车迎面驶来的时候，听到声音越来越高；而车离去的时候声音越来越低。你可能没有意识到，这个现象和医院使用的彩超同属于一个原理，那就是“多普勒效应”。多普勒效应Doppler effect是为纪念奥地利物理学家及数学家克里斯琴·约翰·多普勒（Christian Johann Doppler）而命名的，他于1842年首先提出了这一理论。主要内容为物体辐射的波长因为波源和观测者的相对运动而产生变化。在运动的波源前面，波被压缩，波长变得较短，频率变得较高（蓝移blue shift）；在运动的波源后面时，会产生相反的效应。波长变得较长，频率变得较低（红移red shift）；波源的速度越高，所产生的效应越大。根据波红（蓝）移的程度，可以计算出波源循着观测方向运动的速度。恒星光谱线的位移显示恒星循着观测方向运动的速度，除非波源的速度非常接近光速，否则多普勒位移的程度一般都很小。所有波动现象都存在多普勒效应。
 
 ## 一、声音的产生与传播
 
