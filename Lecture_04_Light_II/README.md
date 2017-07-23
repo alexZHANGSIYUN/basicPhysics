@@ -17,11 +17,11 @@
 
 ### 读一读：
 
-常见的透镜表面都不像普通玻璃那么平整，而是有部分或全部都是球面形的，图3.1－1中的ABCDE都是透镜．在认识和研究透镜的过程中通常要用到两个名词：主光轴和光心．其中，主光轴指的是__________的连线（如图3.1－2）（有时也只是一个球心与另一平面的垂线如D、E）；而光心指主轴上靠近__________的点O． 
+常见的透镜表面都不像普通玻璃那么平整，而是有部分或全部都是球面形的，图1中的ABCDE都是透镜．在认识和研究透镜的过程中通常要用到两个名词：主光轴和光心．其中，主光轴指的是__________的连线（如图2）（有时也只是一个球心与另一平面的垂线如D、E）；而光心指主轴上靠近__________的点O． 
 
-![light2_01]()
+![light2_01](https://github.com/alexZHANGSIYUN/basicPhysics/blob/master/Lecture_04_Light_II/images/light2_01.gif)
 
-![light2_02]()
+![light2_02](https://github.com/alexZHANGSIYUN/basicPhysics/blob/master/Lecture_04_Light_II/images/light2_02.gif)
  
 ### 议一议：
 
@@ -49,9 +49,9 @@
 
 ### 试一试：
 
-将两个三棱镜如图3.1－3那样组合，让两束平行光如图照射，光线经三棱镜后会发生怎样的变化？请根据你见到的情况画出示意图． 
+将两个三棱镜如图3那样组合，让两束平行光如图照射，光线经三棱镜后会发生怎样的变化？请根据你见到的情况画出示意图． 
 
-![light2_03]()
+![light2_03](https://github.com/alexZHANGSIYUN/basicPhysics/blob/master/Lecture_04_Light_II/images/light2_03.gif)
 
 ### 结　论：
 
@@ -74,9 +74,9 @@
 
 ### 试一试：
 
-将两个三棱镜如图3.1－4那样组合，让两束平行光如图照射，光线经三棱镜后会发生怎样的变化？请根据你见到的情况画出示意图． 
+将两个三棱镜如图4那样组合，让两束平行光如图照射，光线经三棱镜后会发生怎样的变化？请根据你见到的情况画出示意图． 
 
-![light2_04]()
+![light2_04](https://github.com/alexZHANGSIYUN/basicPhysics/blob/master/Lecture_04_Light_II/images/light2_04.gif)
 
 ### 结　论：
 
@@ -90,9 +90,9 @@
 
 ### 议一议：
 
-凸透镜对光线有会聚作用，__________（填“一定”或“不一定”）能将所有射向凸透镜的光线都交于一点，而只有一种类型的光线——平行于凸透镜主光轴的光线才能交于一点（如图3.1－5），__________
+凸透镜对光线有会聚作用，__________（填“一定”或“不一定”）能将所有射向凸透镜的光线都交于一点，而只有一种类型的光线——平行于凸透镜主光轴的光线才能交于一点（如图5），__________
 
-![light2_05]()
+![light2_05](https://github.com/alexZHANGSIYUN/basicPhysics/blob/master/Lecture_04_Light_II/images/light2_05.gif)
 
 ### 想一想：
 
@@ -110,9 +110,9 @@
 
 ### 试一试：
 
-完成下列光路（图3.1－6）． 
+完成下列光路（图6）． 
 
-![light2_06]()
+![light2_06](https://github.com/alexZHANGSIYUN/basicPhysics/blob/master/Lecture_04_Light_II/images/light2_06.gif)
 
 ### 结　论：
 
